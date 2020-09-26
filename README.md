@@ -1,9 +1,6 @@
-### Hi there, I am Kevin 👋
-
-<!--
-**Kmonterohenriquez/Kmonterohenriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+<h1 align="center"> Hi there, I am Kevin 👋</h1>
+<h4 aligh="center">I am a Full-Stack Web Developer</h4> 
+<hr/>
 
 - 🔭 I’m currently working on **Personal Projects**
 - 🌱 I’m currently learning **React Native**
@@ -18,8 +15,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
+
 <a href="https://kevinmontero.com/" target="blank"><img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href='tel:1-863-777-9366‬'><img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/890/890547.svg" /></a>
+<a href="https://www.linkedin.com/in/kevin-montero/" target="blank"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" /></a>
+<a href="https://kevinmontero.com/" target="blank"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
