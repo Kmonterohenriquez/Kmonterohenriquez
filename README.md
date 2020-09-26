@@ -11,7 +11,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kmonterohenriquez&show_icons=true" alt="kmonterohenriquez" /></p>
 
-<h5>Contact me</h5>
+<h4>Contact me</h4>
 
 <a href="https://kevinmontero.com/" target="blank"><img align="left" alt="codeSTACKr.com" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/814/814513.svg" /></a>
 <a href='tel:1-863-777-9366‬'><img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/890/890547.svg" /></a>
