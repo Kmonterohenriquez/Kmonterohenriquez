@@ -14,10 +14,10 @@
 
 <h4>Contact me</h4>
 
-<a href="https://kevinmontero.com/" target="blank"><img align="left" alt="kevinmontero.com" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/814/814513.svg" /></a>
+[<img align="left" alt="kevinmontero.com" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/814/814513.svg" />](https://kevinmontero.com/)
 [<img align="left" alt="Kmonterohenriquez | phone" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />](mailto:kevinwilding1997@gmail.com)
-<a href="https://www.linkedin.com/in/kevin-montero/" target="blank"><img align="left" alt="Kmonterohenriquez | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" /></a>
-<a href="https://www.instagram.com/kevinwmh/" target="blank"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" /></a>
+[<img align="left" alt="Kmonterohenriquez | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/kevin-montero/)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" />](https://www.instagram.com/kevinwmh/)
 
 
 
