@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **React.js Projects**
 - 📫 How to reach me: **kevinwilding1997@gmail.com**
 - ⚡ Fun fact:  **I love movies. Except for horror movies.**
-- 😄 My Work:  <a href="www.kevinmontero.com">kevinmontero.com</a>
+- 😄 My Work:  <a href="www.kevinmontero.com">**kevinmontero.com**</a>
 
 
 
