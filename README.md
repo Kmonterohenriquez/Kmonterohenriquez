@@ -2,9 +2,9 @@
 <h3 align="center">I am a Full-Stack Web Developer 💻</h3> 
 <hr/>
 
-- 🔭 I’m currently working on **Personal Projects**
-- 🌱 I’m currently learning **React Native**
-- 👯 I’m looking to collaborate on **React.js Projects**
+- 🔭 I’m currently working at ***American Express*
+- 🌱 I’m currently learning **Technologies related to Javascript**
+- 👯 I’m looking to collaborate on **React  Projects**
 - 📫 How to reach me: **kevinwilding1997@gmail.com**
 - ⚡ Fun fact:  **I love movies. Except for horror movies.**
 - 😄 My Work:  <a target="_blank" href="https://kevinmontero.com/">**kevinmontero.com**</a>
