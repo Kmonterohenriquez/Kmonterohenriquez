@@ -1,4 +1,7 @@
-<h1 align="center"> Hey 👋, I'm Kevin! [<img align="right" alt="kmonterohenriquez | cover" width="22px" src="https://kevinmontero.com/static/media/my_logo.e70af071.png"/>](https://kevinmontero.com/)</h1>
+<div>
+  <h1 align="center"> Hey 👋, I'm Kevin!</h1>
+  [<img align="right" alt="kmonterohenriquez | cover" width="22px" src="https://kevinmontero.com/static/media/my_logo.e70af071.png"/>](https://kevinmontero.com/)
+</div>
 <h3 align="center">I am a Full-Stack Web Developer 💻</h3> 
 <hr/>
 
