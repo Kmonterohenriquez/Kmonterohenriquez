@@ -1,3 +1,4 @@
+[<img align="center" alt="kmonterohenriquez | cover" width="" src="https://media-exp1.licdn.com/dms/image/C4D16AQGwmZ5WSvlp8w/profile-displaybackgroundimage-shrink_200_800/0/1596838449374?e=1613001600&v=beta&t=J6kWa0p_7yc1WIvh-oqAzBZZyxVoNDMtiteWFFDFN0I"/>](https://kevinmontero.com/)
 <h1 align="center"> Hey 👋, I'm Kevin!</h1>
 <h3 align="center">I am a Full-Stack Web Developer 💻</h3> 
 <hr/>
