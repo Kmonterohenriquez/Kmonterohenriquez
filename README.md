@@ -5,7 +5,7 @@
 <h3 align="center">I am a Full-Stack Web Developer 💻</h3> 
 <hr/>
 
-- 🔭 I’m currently working at ***American Express*
+- 🔭 I’m currently working at **American Express**
 - 🌱 I’m currently learning **Technologies related to Javascript**
 - 👯 I’m looking to collaborate on **React  Projects**
 - 📫 How to reach me: **kevinwilding1997@gmail.com**
