@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **React  Projects**
 - 📫 How to reach me: **kevinwilding1997@gmail.com**
 - ⚡ Fun fact:  **I love movies. Except for horror movies.**
-- 😄 My Work:  <a target="_blank" href="https://kevinmontero.com/">**kevinmontero.com**</a>
+- 😄 My Work:  <a target="_blank" href="https://kevinmontero.dev/">**kevinmontero.dev**</a>
 
 #### Top Technologies
 
@@ -26,7 +26,7 @@
 
 <h4>Contact me</h4>
 
-[<img align="left" alt="Kmonterohenriquez | portfolio" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/814/814513.svg" />](https://kevinmontero.com/)
+[<img align="left" alt="Kmonterohenriquez | portfolio" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/814/814513.svg" />](https://kevinmontero.dev/)
 [<img align="left" alt="Kmonterohenriquez | email" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />](mailto:kevinwilding1997@gmail.com)
 [<img align="left" alt="Kmonterohenriquez | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/kevin-montero/)
 [<img align="left" alt="Kmonterohenriquez | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" />](https://www.instagram.com/kevinwmh/)
