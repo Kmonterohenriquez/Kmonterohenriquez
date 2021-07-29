@@ -1,5 +1,5 @@
 <h1 align="center"> Hey 👋, I'm Kevin!</h1>
-<h3 align="center">I am a Full-Stack Web Developer 💻</h3> 
+<h3 align="center">Full-Stack Developer 💻</h3> 
 <hr/>
 
 - 🔭 I’m currently working at **American Express**
