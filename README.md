@@ -22,7 +22,7 @@
 #### My Resume
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1f1_AQyiWqw7E3UYmk0Wp5D7PVeNbCPqI/view?usp=sharing)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kmonterohenriquez&show_icons=true" alt="kmonterohenriquez" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kmonterohenriquez&show_icons=true" alt="kmonterohenriquez" /></p> -->
 
 <h4>Contact me</h4>
 
