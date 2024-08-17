@@ -5,9 +5,9 @@
 - 🔭 I’m currently working at **Fulcrum GT**
 - 🌱 I’m currently learning **new technologies related to Javascript**
 - 👯 I’m looking to collaborate on **Reac.js / Next.js Projects**
-- 📫 How to reach me: **kevinwilding1997@gmail.com**
+- 📫 How to reach me: **kevinmontero.dev@gmail.com**
 - ⚡ Fun fact:  **I love movies. Except for horror movies.**
-- 😄 My Work:  <a target="_blank" href="https://kevinmontero.dev/">**kevinmontero.dev**</a>
+- 😄 My Work:  <a target="_blank" href="https://www.kevinmontero.dev/">**kevinmontero.dev**</a>
 
 
 # 💻 Tech Stack:
